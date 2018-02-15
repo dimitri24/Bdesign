@@ -1,7 +1,42 @@
+body {
+  text-align: center;
+}
+
 h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
   background-image: url("/Users/Dimitrios/Desktop/Bdesign/resources/images/the-flatiron-building.png");
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.background {
+  color: white;
+  background-image: url("/Users/Dimitrios/Desktop/Bdesign/resources/images/the-flatiron-building.png");
+}
+
+.footer {
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
