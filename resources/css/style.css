@@ -28,15 +28,20 @@ h3 {
   font-weight: bold;
 }
 
-.background {
-  color: white;
-  background-image: url("/Users/Dimitrios/Desktop/Bdesign/resources/images/the-flatiron-building.png");
-}
-
 .footer {
   text-align: left;
   font-family: Helvetica;
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+.hero {
+  color: white;
+  text-align: center;
+  background-image: url("/Users/Dimitrios/Desktop/Bdesign/resources/images/the-flatiron-building.png");
+}
+
+.hero h2 {
+  font-size: 23px;
 }
